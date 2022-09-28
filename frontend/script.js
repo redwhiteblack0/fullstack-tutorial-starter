@@ -82,6 +82,10 @@
 //  and data appears as an alert to the user.
 
 // Good luck!!!
+// Oh, and make sure your server is running before trying to fetch :)
+
+// Also, if you're interested in discounted lessons 
+// contact me by either email or phone number. Email is redwhiteblack0@protonmail.com, phone is (240) 452-0233
 
 const noteId = 3;
 
